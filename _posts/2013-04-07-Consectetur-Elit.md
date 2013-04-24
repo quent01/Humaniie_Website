@@ -1,7 +1,7 @@
 ---
 title: Consectetur Elit
 
-layout: default
+layout: post
 
 ---
 
